@@ -1,3 +1,11 @@
+lcms2 (2.9-1ubuntu0.1) bionic-security; urgency=medium
+
+  * SECURITY UPDATE: Integer overflow
+    - debian/patches/CVE-2018-16435.patch: fix in src/cmscgats.c.
+    - CVE-2018-16435
+
+ -- Leonidas S. Barbosa <leo.barbosa@canonical.com>  Thu, 20 Sep 2018 03:51:52 -0300
+
 lcms2 (2.9-1) unstable; urgency=medium
 
   * New upstream version 2.9:

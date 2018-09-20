@@ -1,7 +1,8 @@
 Source: lcms2
 Section: libs
 Priority: optional
-Maintainer: Thomas Weber <tweber@debian.org>
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: Thomas Weber <tweber@debian.org>
 Build-Depends: debhelper (>= 10), dpkg-dev (>= 1.16.0), libjpeg-dev, libtiff-dev, zlib1g-dev
 Standards-Version: 4.1.2
 Homepage: http://www.littlecms.com/
